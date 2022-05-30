@@ -6,3 +6,5 @@ Adding a line for rebasing example, then more changes.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+2022 git. All rights reserved.
